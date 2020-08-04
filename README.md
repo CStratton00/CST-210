@@ -1,1 +1,1 @@
-# CST-210
+# CST-210: Mastermind Game
